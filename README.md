@@ -1,5 +1,5 @@
 # found_you
-auto executable script for getting access to a computer  
+auto executable script for getting details of a computer  
 
 ### Day 01
 
